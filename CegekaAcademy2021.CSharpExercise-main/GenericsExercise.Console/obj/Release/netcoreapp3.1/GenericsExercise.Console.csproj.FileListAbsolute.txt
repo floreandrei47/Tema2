@@ -1,0 +1,3 @@
+D:\Cegeka\CegekaAcademy2021.CSharpExercise-main\GenericsExercise.Console\obj\Release\netcoreapp3.1\GenericsExercise.Console.AssemblyInfoInputs.cache
+D:\Cegeka\CegekaAcademy2021.CSharpExercise-main\GenericsExercise.Console\obj\Release\netcoreapp3.1\GenericsExercise.Console.AssemblyInfo.cs
+D:\Cegeka\CegekaAcademy2021.CSharpExercise-main\GenericsExercise.Console\obj\Release\netcoreapp3.1\GenericsExercise.Console.csproj.CoreCompileInputs.cache
